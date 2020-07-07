@@ -17,7 +17,7 @@ namespace Iniciando
             
             //Cria referencia a SomaDigitosFatorial
             SomaDigitosFatorial soma = new SomaDigitosFatorial();
-            //Console.WriteLine(soma.Calcula(num));
+            Console.WriteLine(soma.Calcula(num));
 
             Console.ReadKey();
 
