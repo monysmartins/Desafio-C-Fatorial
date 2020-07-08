@@ -19,12 +19,13 @@ namespace SomaDigitos.Tests
 
 
             int resultadoEsperado = 23382;
-            //int resultadoEsperado = 6;
+            
 
             //Act
-            /**
-             Fatorial(4) = 24
+            /** Exemplo:
+             Solicitado soma.Calculo(4): logo Fatorial(4) = 24
              Soma dos digitos 2 + 4 = 6
+             Logo ResultadoEsperado seria 6 
              */
             int resultadoAtual = soma.Calcula(2000); 
 
